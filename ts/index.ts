@@ -19,6 +19,7 @@
 // const enum Size { Small, Medium, Large }
 // let mySize: Size = Size.Medium;
 // hey my name is my name is idan
+// idan stop 
 function calculateTax(income: number ,taxYear?: number): number{
     if(taxYear < 2022)
     return income * 1.2;
