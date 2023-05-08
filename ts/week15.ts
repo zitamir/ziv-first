@@ -3,7 +3,7 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
         response.json()
     })
     .then((data) => {
-        // hey
+        
     })
     .catch((error) => {
         console.error('error')
